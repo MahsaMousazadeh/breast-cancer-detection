@@ -12,16 +12,16 @@ This dataset of breast cancer patients was obtained from the 2017 November updat
 
 ## More Info
 #### Accuracy
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/accuracy.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/accuracy.png)
 #### ROC-Curve
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/ROC_Curve.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/ROC_Curve.png)
 #### Precision-Recall
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/Precision-Recall.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/Precision-Recall.png)
 #### Correlation-Heatmap
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/correlation-heatmap.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/correlation-heatmap.png)
 #### Chart-data
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/chart-data.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/chart-data.png)
 #### Chart-data1
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/chart-data1.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/chart-data1.png)
 #### Chart-data2
-![Graph](https://github.com/mahsamousazadeh/breast-cancer-prediction/blob/master/images/chart-data2.png)
+![Graph](https://raw.githubusercontent.com/MahsaMousazadeh/breast-cancer-detection/master/images/chart-data2.png)
